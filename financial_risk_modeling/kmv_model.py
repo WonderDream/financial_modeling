@@ -5,7 +5,7 @@ Created on Thu Oct 11 20:41:21 2018
 The Merton's (1974) model treats a firm's stock as a call option of its asset, in which the strike price is the debt.
 Moody's KMV model is the most well known implemention of the Merton's (1974) model.
 This code try to estimate the unobserved asset value and the unkown parameters following the Duan et al. (2005), 
-in which the parameters is estimated using a transformed-data MLE method in a expectation and maximization framework.
+in which the parameters is estimated using a transformed-data MLE method in an expectation and maximization framework.
 
 
 References:
