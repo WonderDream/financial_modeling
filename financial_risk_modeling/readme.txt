@@ -1,4 +1,4 @@
-The kmv_model.py is a python implementation of the Moody's KMV model according to Duan et al.(2005).
+The kmv_model.py is a python implementation of the Moody's KMV credit risk model according to Duan et al.(2005).
 The kmv_bt_model.py is a python implementation the KMV model using the Brockman and Turtle (2003) equity pricing formula.
 
 Reference:
