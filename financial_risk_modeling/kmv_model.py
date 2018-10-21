@@ -62,7 +62,8 @@ def asset_value_estimating_by_equity_pricing_equation(equity_value, debt_value, 
         return estimated_asset_value[0]
     else:
         return estimated_asset_value
-    
+ 
+
 def log_likelihood_func_for_estimated_asset_value(expected_return, volatility, estimated_asset_value, debt_value_series, risk_free_rate_series, time_horizon, interval):
     
     logging.debug('mu:%.2f, vo:%.2f' % (expected_return, volatility))
